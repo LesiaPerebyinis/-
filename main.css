@@ -1,0 +1,23 @@
+   *  {
+       box-sizing: border-box;
+   }
+   
+   
+.box {
+    width: 100%;
+    height: 500px;
+    background-color: grey;
+}
+
+.box-smal {
+    float: left;
+    width: 25%;
+    height: 25%;
+    background-color: yellow;
+    padding: 0 10px 0 0;
+  }
+.blok {
+    float: left;
+    width: 25%;
+    height: 25%;
+    background-color: yellow;
