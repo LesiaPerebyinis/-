@@ -1,0 +1,28 @@
+   *  {
+       box-sizing: border-box;
+   }
+  
+.clearfix {
+    clear: both;
+}
+   
+.container {
+    width: 1200ph;
+    margin: 0 auto;
+}
+.col-main,
+.col {
+    float: left;
+    padding: 20px 20px;
+    background-size: cover;
+    background-position: center;
+}
+.col-main {
+    width: 66.666%;
+}
+.col {
+    width: 33.333%;
+}
+.row {
+   padding: 0 55px;
+}
